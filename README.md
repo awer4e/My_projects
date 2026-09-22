@@ -67,5 +67,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/awer4e/My-project.git
+   git clone https://github.com/awer4e/My_project.git
    
